@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://romelia-75881d04.zappy5.app
+https://example.com
 גלו מוצרי נוי מבטון פולימרי בעבודת יד שמכניסים יופי גולמי ומעודן לכל חלל. קישוטי בטון לעיצוב פנים עם נשמה ארטיזנלית. התחילו לעצב את הפינה האהובה עליכם עוד היום.
 
 ### סיפור החומר
-https://romelia-75881d04.zappy5.app/material-story
+https://example.com/material-story
 צללו לעומק סיפורו של הבטון הפולימרי – חומר גלם מודרני, עמיד וידידותי לסביבה. איך הופכים תערובת גולמית לפריטי עיצוב מהפנטים? הציצו אל מאחורי הקלעים של המלאכה שמגדירה אותנו.
 
 ### מדריך מתנות
-https://romelia-75881d04.zappy5.app/gift-guide
+https://example.com/gift-guide
 מחפשים מתנות מקוריות לחגים ישראל או מתנות עסקיות מעוצבות לעובדים? המדריך המלא שלנו יעזור לכם לבחור מתנות ייחודיות לבית מעוצבות שישאירו רושם בלתי נשכח. גלו את הרעיון המנצח.
 
 ### גלריה
-https://romelia-75881d04.zappy5.app/gallery
+https://example.com/gallery
 דפדפו בגלריה העשירה שלנו וקבלו השראה ממוצרי נוי מבטון פולימרי בסביבתם הטבעית. מקישוטי בטון לעיצוב פנים ועד נרות שבת וסט הבדלה – מצאו את הפריט שיספר את הסיפור שלכם.
 
 ### צור קשר
-https://romelia-75881d04.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על פריטי עיצוב ידידותיים לסביבה או בקשה מיוחדת למתנות ייחודיות לבית מעוצבות? אנחנו כאן לכל מחשבה ורעיון. צרו קשר והפכו את החזון העיצובי שלכם למציאות מוחשית.
 
 ### Products
-https://romelia-75881d04.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ROMELIA
 
 ### Cart
-https://romelia-75881d04.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://romelia-75881d04.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://romelia-75881d04.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://romelia-75881d04.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://romelia-75881d04.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://romelia-75881d04.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ROMELIA
 
 ### Category
-https://romelia-75881d04.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ROMELIA
 
 ### תודה שפנית אלינו
-https://romelia-75881d04.zappy5.app/thank-you
+https://example.com/thank-you
 ROMELIA - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://romelia-75881d04.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://romelia-75881d04.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://romelia-75881d04.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ E-commerce / Home Decor
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://romelia-75881d04.zappy5.app/sitemap.xml
-- Robots: https://romelia-75881d04.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://romelia-75881d04.zappy5.app/llms-full.txt
-- Products (JSON): https://romelia-75881d04.zappy5.app/products.json
-- Products (Google Merchant RSS): https://romelia-75881d04.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
