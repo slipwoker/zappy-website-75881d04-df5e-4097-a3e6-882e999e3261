@@ -1,0 +1,112 @@
+# ROMELIA — Generative Engine Optimization Map
+
+> An online store specializing in decorative items crafted from polymer concrete — a modern, durable material that blends the raw, industrial aesthetic of concrete with refined design. The brand likely appeals to customers who appreciate unique, handcrafted home décor with a contemporary and artisanal feel.
+
+---
+
+## Pages
+
+### בית
+https://romelia-75881d04.zappy5.app
+גלו מוצרי נוי מבטון פולימרי בעבודת יד שמכניסים יופי גולמי ומעודן לכל חלל. קישוטי בטון לעיצוב פנים עם נשמה ארטיזנלית. התחילו לעצב את הפינה האהובה עליכם עוד היום.
+
+### סיפור החומר
+https://romelia-75881d04.zappy5.app/material-story
+צללו לעומק סיפורו של הבטון הפולימרי – חומר גלם מודרני, עמיד וידידותי לסביבה. איך הופכים תערובת גולמית לפריטי עיצוב מהפנטים? הציצו אל מאחורי הקלעים של המלאכה שמגדירה אותנו.
+
+### מדריך מתנות
+https://romelia-75881d04.zappy5.app/gift-guide
+מחפשים מתנות מקוריות לחגים ישראל או מתנות עסקיות מעוצבות לעובדים? המדריך המלא שלנו יעזור לכם לבחור מתנות ייחודיות לבית מעוצבות שישאירו רושם בלתי נשכח. גלו את הרעיון המנצח.
+
+### גלריה
+https://romelia-75881d04.zappy5.app/gallery
+דפדפו בגלריה העשירה שלנו וקבלו השראה ממוצרי נוי מבטון פולימרי בסביבתם הטבעית. מקישוטי בטון לעיצוב פנים ועד נרות שבת וסט הבדלה – מצאו את הפריט שיספר את הסיפור שלכם.
+
+### צור קשר
+https://romelia-75881d04.zappy5.app/contact
+יש לכם שאלה על פריטי עיצוב ידידותיים לסביבה או בקשה מיוחדת למתנות ייחודיות לבית מעוצבות? אנחנו כאן לכל מחשבה ורעיון. צרו קשר והפכו את החזון העיצובי שלכם למציאות מוחשית.
+
+### Products
+https://romelia-75881d04.zappy5.app/products
+המוצרים שלנו - ROMELIA
+
+### Cart
+https://romelia-75881d04.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://romelia-75881d04.zappy5.app/checkout
+תשלום
+
+### Login
+https://romelia-75881d04.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://romelia-75881d04.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://romelia-75881d04.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://romelia-75881d04.zappy5.app/product/:slug
+פרטי המוצר - ROMELIA
+
+### Category
+https://romelia-75881d04.zappy5.app/category/:slug
+מוצרים - ROMELIA
+
+### תודה שפנית אלינו
+https://romelia-75881d04.zappy5.app/thank-you
+ROMELIA - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://romelia-75881d04.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://romelia-75881d04.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://romelia-75881d04.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ROMELIA
+An online store specializing in decorative items crafted from polymer concrete — a modern, durable material that blends the raw, industrial aesthetic of concrete with refined design. The brand likely appeals to customers who appreciate unique, handcrafted home décor with a contemporary and artisanal feel.
+
+## Target Audience
+- חובבי עיצוב פנים
+- צרכנים ידידותיים לסביבה
+- תושבי דירות עירוניות
+- מחפשי מתנות ייחודיות
+- מתנות דת
+- מנהלות HR
+- מחפשי מתנות מיוחדות
+
+## Industry
+E-commerce / Home Decor
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://romelia-75881d04.zappy5.app/sitemap.xml
+- Robots: https://romelia-75881d04.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://romelia-75881d04.zappy5.app/llms-full.txt
+- Products (JSON): https://romelia-75881d04.zappy5.app/products.json
+- Products (Google Merchant RSS): https://romelia-75881d04.zappy5.app/product-feed.xml
